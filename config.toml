@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://ceiling.cloud/"
+languageCode = "zh-cn"
+title = "希灵母巢"
 theme = "ananke"
