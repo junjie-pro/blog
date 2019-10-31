@@ -1,9 +1,9 @@
-+++
-date = "2019-05-26T00:08:26+08:00"
-title = "解包 RPM"
-draft = false
-
-+++
+---
+date: "2019-05-26T00:08:26+08:00"
+title: "解包 RPM"
+tags: ["rpm"]
+draft: false
+---
 
 ## 将 RPM 转为 tgz
 

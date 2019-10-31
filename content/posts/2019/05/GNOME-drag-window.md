@@ -1,6 +1,7 @@
 ---
 title: "GNOME：拖拽窗口"
 date: 2019-05-27T12:49:04+08:00
+tags: ["GNOME"]
 draft: false
 ---
 
