@@ -1,0 +1,28 @@
+stages:
+  - build
+  - deploy
+build:
+  stage: build
+  image: jojomi/hugo
+  script:
+  - hugo version
+  - git submodule update --init --recursive
+  - hugo
+  artifacts:
+    paths:
+    - public
+deploy:
+  stage: deploy
+  image: alpine:latest
+  tags:
+  - docker
+  before_script:
+    - apk update && apk add openssh-client bash rsync
+  script:
+  - eval $(ssh-agent -s)
+  - bash -c 'echo "${SSH_PRIVATE_KEY}" | ssh-add -'
+  - mkdir -p ~/.ssh
+  - echo "${SSH_HOST_KEY}" > ~/.ssh/known_hosts
+  - rsync -hrvz --delete-before -e "ssh -p ${SSH_HOST_PORT}" public/ "${SSH_USER_HOST_LOCATION}"
+  only:
+  - master
