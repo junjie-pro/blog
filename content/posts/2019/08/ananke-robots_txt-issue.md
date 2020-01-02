@@ -1,6 +1,7 @@
 ---
 title: "Hugo 博文 noindex 问题"
 date: 2019-08-07T23:15:23+08:00
+tags: ["Hugo"]
 draft: false
 ---
 

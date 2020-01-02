@@ -1,7 +1,7 @@
 ---
 title: "如何注册 Google 账户"
 date: 2019-10-31T08:28:44+08:00
-tags: ["Google", "Gmail"]
+tags: ["Gmail", "Google"]
 draft: false
 ---
 
