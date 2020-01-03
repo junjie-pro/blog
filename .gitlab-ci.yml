@@ -7,7 +7,7 @@ build:
   script:
   - hugo version
   - git submodule update --init --recursive
-  - hugo
+  - HUGO_ENV="production" hugo
   artifacts:
     paths:
     - public
