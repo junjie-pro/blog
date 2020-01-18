@@ -1,6 +1,6 @@
 baseURL = "https://blog.ceiling.cloud/"
 languageCode = "zh-cn"
-title =  "Blog | Project Ceiling"
+title = "Blog | Project Ceiling"
 theme = "ananke"
 googleAnalytics = "UA-126801232-2"
 
