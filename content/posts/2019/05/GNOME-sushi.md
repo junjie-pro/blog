@@ -5,7 +5,7 @@ tags: ["GNOME", "sushi"]
 draft: false
 ---
 
-前些日子我发现了 GNOME 文件管理器 —— nautilus 的一个功能：使用空格键预览文件。这和 macOS 中 finder 的很相似<sup>其实就是抄的啦</sup>。
+前些日子我发现了 GNOME 文件管理器 —— nautilus 的一个功能：使用空格键预览文件。这和 macOS 中的 finder 很相似。
 
 这个功能是由 [sushi](https://en.wikipedia.org/wiki/GNOME_sushi) 提供的。经过我的测试，它可以预览 PDF、docx、pptx、纯文本文件（对于代码，还会有语法高亮）甚至是 csv 文件。对于目录以及归档文件，sushi 会显示出它的基本信息。
 
