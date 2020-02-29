@@ -16,11 +16,11 @@ Linux 5.0 加入了一款 HiDPI 字体 —— Terminus console font，这款字�
 
 #### 通过包管理安装字体包并修改 ```/etc/vconsole.conf```
 
-如果你是用的是 Fedora，可以用包管理（如 dnf）安装 ```terminus-fonts-console.noarch```，此包提供了多个 Terminus 字体文件（均位于 ```/lib/kbd/consolefonts/```），我比较喜欢 ter-g28b.psf.gz，当然，你也可也根据个人喜好和在你的屏幕上的显示效果选择其他大小或字形。
+如果你是用的是 Fedora，可以用包管理（如 dnf）安装 ```terminus-fonts-console.noarch```，此包提供了多个 Terminus 字体文件（均位于 ```/lib/kbd/consolefonts/```），我比较喜欢 ter-v32b.psf.gz，当然，你也可也根据个人喜好和在你的屏幕上的显示效果选择其他大小或字形。
 
-你可以在 console 运行 ```setfont ter-g28b.psf.gz``` 临时地应用 Terminus 字体。重启后会恢复默认字体，或运行 ```setfont``` 立即恢复默认 console 字体。
+你可以在 console 运行 ```setfont ter-v32b.psf.gz``` 临时地应用 Terminus 字体。重启后会恢复默认字体，或运行 ```setfont``` 立即恢复默认 console 字体。
 
-可在 ```/etc/vconsole.conf``` 设置 "```FONT=ter-g28b.psf.gz```" 以永久应用此字体，重启后方生效。
+可在 ```/etc/vconsole.conf``` 设置 "```FONT=ter-v32b.psf.gz```" 以永久应用此字体，重启后方生效。
 
 ### 参考文献
 
