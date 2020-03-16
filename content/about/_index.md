@@ -1,4 +1,4 @@
 ---
-title: "关于我们"
+title: "About"
 ---
 

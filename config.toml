@@ -1,11 +1,10 @@
-baseURL = "https://blog.ceiling.cloud/"
+baseURL = "https://blog.junjie.pro/"
 languageCode = "zh-cn"
-title = "Blog | Project Ceiling"
+title = "Junjie Yuan's Blog"
 theme = "ananke"
-# googleAnalytics = ""
 
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "关于"
+    name = "About"
     url = "/about/"
