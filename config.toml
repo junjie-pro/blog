@@ -8,3 +8,7 @@ theme = "ananke"
     identifier = "about"
     name = "About"
     url = "/about/"
+
+[params]
+  favicon = "favicons/material_icon_outline_dns_black_24px.svg"
+
