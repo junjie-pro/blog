@@ -6,3 +6,5 @@ draft: false
 
 Junjie Yuan: <junjieyuanxiling@gmail.com>
 
+[GPG Public Key](/files/junjieyuan.gpg)
+
