@@ -16,7 +16,7 @@ gsettings set org.gnome.shell.app-switcher current-workspace-only true
 ##### 如果你想恢复为在所有工作区间切换窗口，请运行
 
 ```bash
-gsettings set org.gnome.shell.app-switcher current-workspace-only false
+gsettings reset org.gnome.shell.app-switcher current-workspace-only
 ```
 
 #### 使用 dconf Editor
