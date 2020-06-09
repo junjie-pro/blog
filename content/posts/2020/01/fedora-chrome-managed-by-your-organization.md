@@ -1,7 +1,7 @@
 ---
 title: "Fedora 安装 Chrome 后显示“您的浏览器由所属组织管理”"
 date: 2020-01-22T11:20:13+08:00
-tags: ["Chrome", "Fedora"]
+tags: ["Browser", "Chrome", "Fedora"]
 draft: false
 ---
 
