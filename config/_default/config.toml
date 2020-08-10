@@ -1,6 +1,6 @@
 baseURL = "https://blog.junjie.pro/"
 languageCode = "zh-cn"
-title = "Junjie Yuan's Blog"
+title = "Junjie's Blog"
 theme = "ananke"
 
 [menu]
