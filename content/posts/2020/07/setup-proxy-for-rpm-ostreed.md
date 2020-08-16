@@ -15,7 +15,8 @@ systemctl edit rpm-ostreed.service
 
 ```text
 [Service]
-Environment="http_proxy=http://IP:Port"
+Environment="http_proxy=http://Host:Port"
+Environment="https_proxy=http://Host:Port"
 ```
 
 重启 rpm-ostreed 服务：
