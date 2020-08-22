@@ -9,6 +9,11 @@ theme = "ananke"
     name = "About"
     url = "/about/"
 
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
 [params]
   favicon = "favicons/material_icon_outline_dns_black_24px.svg"
 
