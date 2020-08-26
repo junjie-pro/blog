@@ -25,7 +25,6 @@ Environment="https_proxy=http://Host:Port"
 systemctl restart rpm-ostreed.service
 ```
 
-# 参考文献 #
+## 参考文献 ##
 
 [GitHub coreos/rpm-ostree/issues/208](https://github.com/coreos/rpm-ostree/issues/208#issuecomment-307369036)
-

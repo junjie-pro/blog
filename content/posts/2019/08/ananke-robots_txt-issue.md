@@ -13,7 +13,7 @@ draft: false
 
 我使用的主题是 ananke，在 ```themes/ananke/layouts/robots.txt``` 发现了下面的代码：
 
-```
+```text
 User-agent: *
 # robotstxt.org - if ENV production variable is false robots will be disallowed.
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}

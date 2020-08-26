@@ -9,10 +9,10 @@ draft: false
 
 卸载此包即可解决 Chrome 显示“您的浏览器由所属组织管理”的问题，同时也可以更有效地隐藏系统信息，不是吗？
 
-### 卸载
+## 卸载 ##
 
 以 root 权限运行：
 
 ```bash
-# dnf remove fedora-chromium-config.noarch
+dnf remove fedora-chromium-config.noarch
 ```
