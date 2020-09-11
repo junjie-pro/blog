@@ -12,6 +12,8 @@ draft: false
 * git（建议 2.24 或以上）
 * python（2.7），且要能在 PATH 中找到 python
 * unzip
+* 大约 70 [GiB](https://zh.wikipedia.org/wiki/Gibibyte) 的磁盘空间，建议 100 GiB
+* 时间，Intel® Core™ i3-6100 的编译时间约为 140 分钟。
 
 ## 获取源代码 ##
 
