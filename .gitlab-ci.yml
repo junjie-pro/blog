@@ -1,15 +1,15 @@
 stages:
-  - test
+  - build
   - deploy
 
-test job:
-  stage: test
+test:
+  stage: build
   image: jojomi/hugo
   except:
   - master
   script:
-  - hugo version
   - git submodule update --init --recursive
+  - hugo version
   - HUGO_ENV="production" hugo
   artifacts:
     paths:
@@ -21,10 +21,9 @@ pages:
   only:
   - master
   script:
-  - hugo version
   - git submodule update --init --recursive
+  - hugo version
   - HUGO_ENV="production" hugo
   artifacts:
     paths:
     - public
-
