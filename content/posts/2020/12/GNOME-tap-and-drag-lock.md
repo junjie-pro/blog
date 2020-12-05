@@ -2,7 +2,7 @@
 title: "GNOME: 拖拽锁定"
 date: 2020-12-05T22:45:52+08:00
 tags: ["GNOME"]
-draft: true
+draft: false
 ---
 
 GNOME 支持拖拽锁定，但默认情况下没有开启，且没有提供图形界面配置。下面是配置拖拽锁定的方法：
