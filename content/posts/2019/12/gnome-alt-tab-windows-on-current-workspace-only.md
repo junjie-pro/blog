@@ -21,7 +21,7 @@ gsettings reset org.gnome.shell.app-switcher current-workspace-only
 
 ## 使用 dconf Editor ##
 
-如果你更喜欢图形化工具，你可以使用 dconf Editor 开启（或关闭）```org/gnome/shell/app-switcher/current-workspace-only```。
+如果你更喜欢图形化工具，你可以使用 dconf Editor 开启（或关闭）```/org/gnome/shell/app-switcher/current-workspace-only```。
 
 ## 参考文献 ##
 
