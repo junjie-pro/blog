@@ -22,7 +22,7 @@ Environment="https_proxy=http://Host:Port"
 重启 rpm-ostreed 服务：
 
 ```bash
-systemctl restart rpm-ostreed.service
+systemctl reload rpm-ostreed.service
 ```
 
 ## 参考文献 ##
