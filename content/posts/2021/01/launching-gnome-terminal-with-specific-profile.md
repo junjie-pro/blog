@@ -1,6 +1,7 @@
 ---
 title: "使用指定的配置打开 GNOME 终端"
 date: 2021-01-28T21:27:36+08:00
+tags: ["Fedora", "GNOME"]
 draft: false
 ---
 
