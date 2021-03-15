@@ -4,7 +4,10 @@ date: 2019-11-04T14:28:27+08:00
 draft: false
 ---
 
-Junjie Yuan: <yuan@junjie.pro>, <junjieraw@gmail.com>
+Junjie Yuan: <yuan@junjie.pro>
 
-[GPG Public Key](/files/junjieyuan.gpg), fingerprint: ```64C842596DBFF3A7A0F6573A304406F6126C241D```
+[GPG Public Key](/files/junjieyuan.asc), fingerprint:
 
+```text
+64C8 4259 6DBF F3A7 A0F6 573A 3044 06F6 126C 241D
+```
