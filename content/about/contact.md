@@ -6,7 +6,7 @@ draft: false
 
 Junjie Yuan: <yuan@junjie.pro>
 
-[GPG Public Key](/files/junjieyuan.asc), fingerprint:
+[GPG Public Key](/files/junjieyuan.asc), keyid ```304406F6126C241D```, fingerprint:
 
 ```text
 64C8 4259 6DBF F3A7 A0F6 573A 3044 06F6 126C 241D
