@@ -9,4 +9,6 @@ draft: false
 
 于是我 Google 了一番，GNOME 对这个功能的按键绑定为 Windows 徽标键。按住 Win 键后也可以用鼠标中键调整窗口大小。
 
-Google 到的结果：[How to enable dragging windows with alt-click in gnome 3 / gnome shell - Super User](https://superuser.com/questions/428974/how-to-enable-dragging-windows-with-alt-click-in-gnome-3-gnome-shell)
+## 参考文献 ##
+
+[How to enable dragging windows with alt-click in gnome 3 / gnome shell - Super User](https://superuser.com/questions/428974/how-to-enable-dragging-windows-with-alt-click-in-gnome-3-gnome-shell)
